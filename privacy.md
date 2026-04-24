@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy — PAT (Personal Achievement Tracker)
 
 **Last updated:** April 17, 2026
